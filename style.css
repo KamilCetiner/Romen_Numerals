@@ -1,0 +1,48 @@
+
+.container {
+    
+}
+
+
+#romen_img {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    
+    
+
+}
+
+.centered {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 28px;
+    color: black;
+    padding: 50;
+}
+
+#inpt_text {
+    position: absolute;
+    margin-top: 30px;
+   font-weight: bold;
+    margin-right: 50px;
+    width: 500px;
+    font-size: 25px;
+}
+
+#otp {
+    position: absolute;
+    padding-left: 50px;
+    padding-top: 2px;
+
+}
+
+#otp {
+    background-color: darkcyan;
+    width: 120px;
+    padding-right: 50px;
+    text-align: center;
+    border-radius: 10px;
+}
